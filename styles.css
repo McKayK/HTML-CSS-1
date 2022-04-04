@@ -1,0 +1,31 @@
+body {
+    background-image: url("https://drive.google.com/uc?export=view&id=1TLFQh3nq9zJfR8q1aCIcWbVySd5XysZN");
+    text-align: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 75px;
+    color: white;
+    text-align: left;
+}
+
+p {
+    color: white;
+    text-align: center;
+}
+
+a {
+    color: white;
+}
+
+a {
+    font-size: 100;
+}
+
+#toppic1 {
+    height: 200vw;
+    width: 200vw;
+}
